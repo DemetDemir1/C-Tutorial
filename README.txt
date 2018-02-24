@@ -8,6 +8,7 @@ Contents
  Datatypes and Operators
  Namespaces
  If-Statements
+ Switch-Case
  For Loops
  While Loops
  Arrays
