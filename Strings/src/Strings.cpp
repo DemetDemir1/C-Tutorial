@@ -82,12 +82,5 @@ int main() {
 	std::size_t pos = findString.find("World");
 	cout << pos << endl;
 
-
-
-
-
-
-
-
 	return 0;
 }
